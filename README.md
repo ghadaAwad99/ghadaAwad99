@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghada Mustafa</h1>
-<h3 align="center">A passionate native mobile application developer</h3>
+<h3 align="center">A passionate mobile application developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
